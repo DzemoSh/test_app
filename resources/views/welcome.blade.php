@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Aaron's Department Task</title>
+        <title> PHP Task</title>
         <link href="https://unpkg.com/vuesax@4.0.1-alpha.16/dist/vuesax.min.css" rel="stylesheet">
         <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
         <!-- <link rel="stylesheet" href="{{ asset('resources\sass\app.scss') }}"> -->
